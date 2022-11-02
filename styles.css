@@ -1,0 +1,94 @@
+body{
+    background: lightgrey;
+    /* add a background color  */
+    color: ;
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1;
+}
+main{
+    width:500px;
+    margin-right:auto;
+    margin-left: auto;
+    display: block;
+}
+img{
+    max-width:100%;
+}
+.album-art{
+
+}
+h1{
+    font-family: ;
+    /* font styles */
+    text-align: center;
+}
+h2{
+    font-family: ;
+    /* font family styles */
+    /* font color */
+    text-align: center;
+}
+h3{
+    font-family: ;
+    /* font family styles */
+    /* font color */
+}
+p{
+    font-family: ;
+    /* change font family styles */
+    color: ;
+    /* font color */
+    font-size: 1.2em;
+}
+ol{
+
+    /* container for list */
+}
+.songlist p{
+  background-color: #858080;
+  padding:5px;
+  margin:5px;
+vertical-align: middle;
+    /* list styles */
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+span{
+
+
+}
+.songlist img{
+  padding-right: 10px;
+  vertical-align: middle;
+  height:50px;
+  width:50px;
+  border-radius:50%;
+}
+a{
+    /* link styles */
+    color:white;
+    /* change font color */
+    text-decoration: none;
+}
+a:hover{
+    /* link styles when mouse hovers on link */
+color:blue;
+    /* change font color */
+    text-decoration: underline;
+}
+a:visited{
+    /* link styles when someone has already clicked on link */
+    color:blue;
+    /* change font color */
+}
+
+
+
+
+
+/* STOP MOBILE STYLES */
+/* DESKTOP STYLES BELOW */
+/* MEDIA QUERY WILL BE BELOW THIS COMMENT */
